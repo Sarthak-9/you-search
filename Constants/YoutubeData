@@ -1,0 +1,1 @@
+const url=  `https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=${props.searchText}&type=video&key=AIzaSyC3H9SYQ2u0_ZvL6nAMeYx2ti9gbUaGOhI`;

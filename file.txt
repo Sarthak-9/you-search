@@ -1,0 +1,352 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "U_738HBvqQaHN0M_mJq7CHW8DLU",
+  "nextPageToken": "CAoQAA",
+  "regionCode": "IN",
+  "pageInfo": {
+    "totalResults": 71502,
+    "resultsPerPage": 10
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_AyNIyLn0nASWVeIp2sUTIP7niQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H0BXMUdyIKA"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-30T17:02:28Z",
+        "channelId": "UCoUk9iNey2e-g3XtnaNGlQA",
+        "title": "NF - The Search (lyrics)",
+        "description": "NF - The Search (lyrics) Follow our Spotify : https://Popular-Music.lnk.to/Spotify Get the new song here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H0BXMUdyIKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H0BXMUdyIKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H0BXMUdyIKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mr Shades",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-30T17:02:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SQ7LASYycnWPjOrjpfrSZqwP9RQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ikmu9hGz9v0"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-30T20:06:52Z",
+        "channelId": "UCyE7gP9GWhmphw6sMMsf4Kg",
+        "title": "Song (search TEXT!)",
+        "description": "This is a song written and played withing 5 minutes. We know that it doesn't sound that good,but our biggest Problem is THE TEXT ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ikmu9hGz9v0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ikmu9hGz9v0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ikmu9hGz9v0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CsgUmw",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-30T20:06:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ql5N8mtHEUh88-9eIy-95N2HMNs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "za8tMANFyXI"
+      },
+      "snippet": {
+        "publishedAt": "2011-02-09T17:41:40Z",
+        "channelId": "UCYi9TC1HC_U2kaRAK6I4FSQ",
+        "title": "Michael Jackson - You Are Not Alone (Karaoke With Lyrics)",
+        "description": "Download \"You Are Not Alone\" in the style of Michael Jackson in MP4 or MP3+G formats available here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/za8tMANFyXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/za8tMANFyXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/za8tMANFyXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stingray Karaoke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-02-09T17:41:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DOLtGZuGLBt7jsOQEdeyvRFagG8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EHYnKVEz83A"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-19T14:59:59Z",
+        "channelId": "UCYi9TC1HC_U2kaRAK6I4FSQ",
+        "title": "Monster in the Style of &quot;Imagine Dragons&quot; with lyrics (no lead vocal)",
+        "description": "Download \"Monster\" in the style of Imagine Dragons in MP4 or MP3+G formats available here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EHYnKVEz83A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EHYnKVEz83A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EHYnKVEz83A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stingray Karaoke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-12-19T14:59:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g3-A67lluMiMUYBSKoaA8rfVOeA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2i99IdOi1L0"
+      },
+      "snippet": {
+        "publishedAt": "2009-07-13T14:16:24Z",
+        "channelId": "UCYi9TC1HC_U2kaRAK6I4FSQ",
+        "title": "From Me To You in the style of The Beatles karaoke video with lyrics",
+        "description": "Download \"From Me To You\" in the style of The Beatles in MP4 or MP3+G formats available here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2i99IdOi1L0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2i99IdOi1L0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2i99IdOi1L0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stingray Karaoke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-07-13T14:16:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5FnTrcL5unle0Pyg6MzKQBRg5rI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xqsz9mqeg6o"
+      },
+      "snippet": {
+        "publishedAt": "2014-03-12T15:26:08Z",
+        "channelId": "UCYi9TC1HC_U2kaRAK6I4FSQ",
+        "title": "How Great Thou Art in the Style of &quot;Elvis Presley&quot; with lyrics (no lead vocal) karaoke video",
+        "description": "Download \"How Great Thou Art\" in the style of Elvis Presley in MP4 or MP3+G formats available here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xqsz9mqeg6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xqsz9mqeg6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xqsz9mqeg6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stingray Karaoke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-03-12T15:26:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WpK2nX6jl6hMp0zTsyrcr1lZCAw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b4xVsYxt-HM"
+      },
+      "snippet": {
+        "publishedAt": "2012-04-12T18:21:43Z",
+        "channelId": "UCPhsF4E-vChQBEF4Zl9hvqw",
+        "title": "Mi Niña (Bachata Versión) in the Style of &quot;Los Toros Band&quot; with lyrics (no lead vocal)",
+        "description": "Download \"Mi Niña (Bachata Versión)\" in the style of Los Toros Band in MP4 or MP3+G formats available here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b4xVsYxt-HM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b4xVsYxt-HM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b4xVsYxt-HM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KARAOKEChannelIntl",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-04-12T18:21:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZE8Oz4lk4dXlSc6JV7VYXInljs8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KcUKGXHGIxA"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-28T17:40:47Z",
+        "channelId": "UCYi9TC1HC_U2kaRAK6I4FSQ",
+        "title": "Stole My Heart in the Style of &quot;One Direction&quot; karaoke video with lyrics (no lead vocal)",
+        "description": "Download \"Stole My Heart\" in the style of One Direction in MP4 or MP3+G formats available here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KcUKGXHGIxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KcUKGXHGIxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KcUKGXHGIxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stingray Karaoke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-28T17:40:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zWDko7OYElTLKoZk-HbfjQj9JyU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YYGoUZngtG0"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-17T18:25:14Z",
+        "channelId": "UCYi9TC1HC_U2kaRAK6I4FSQ",
+        "title": "Flaws in the Style of &quot;Bastille&quot; karaoke video with lyrics (no lead vocal)",
+        "description": "Download \"Flaws\" in the style of Bastille in MP4 or MP3+G formats available here: https://karaoke.stingray.com/search/song?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YYGoUZngtG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YYGoUZngtG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YYGoUZngtG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stingray Karaoke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-17T18:25:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N0wATw9MxFvwzIU5OPA7sD5l67k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l0u4yd5Z6Kc"
+      },
+      "snippet": {
+        "publishedAt": "2011-08-11T15:39:47Z",
+        "channelId": "UCYi9TC1HC_U2kaRAK6I4FSQ",
+        "title": "Ain&#39;t No Sunshine in the Style of &quot;Bill Withers&quot; karaoke video with lyrics (no lead vocal)",
+        "description": "Download \"Ain't No Sunshine\" in the style of Bill Withers in MP4 or MP3+G formats available here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l0u4yd5Z6Kc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l0u4yd5Z6Kc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l0u4yd5Z6Kc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stingray Karaoke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-08-11T15:39:47Z"
+      }
+    }
+  ]
+}
